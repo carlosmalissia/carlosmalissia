@@ -1,7 +1,9 @@
 ### Bienvenido 👋
 
-Soy desarrollador FullStack, manejo tecnologías PERN y MERN, Next js, React js, SQL, GraphQL y frameworks varios. Como valor agregado puedo aportar toda mi creatividad e imaginación en diseños (conocimientos de FIGMA), lógica y capacidad de solucionar problemas, capacidad innata de liderazgo, de enseñanza y también de aprendizaje continuo, práctica en metodología SCRUM y certificación IBM en método Agile. Soy de pensamiento científico, y bueno en matemáticas. 
-Me recibí en Henry y conozco las computadoras desde que nació el mundo IT. Tengo muchos proyectos realizados, y muchos estudios en especial en los últimos años sobre las nuevas tecnologías que están ahora en vanguardia y son las más elegidas, certificación IBM en Explore Emerging Tech (fundamentos de IA, Data Analitic, Cloud Computer, Ciber Seguridad, Internet IoTs). Actualmente estoy estudiando para conseguir la certificación de AWS. 
+Soy desarrollador Full Stack, manejo tecnologías PERN y MERN, 
+ Next js, React js, SQL y frameworks varios. Últimamente me especialicé en frontend, pero también conozco el backend y todos los procesos de desarrollo web. Como valor agregado, puedo aportar toda mi creatividad e imaginación  en diseños, lógica y capacidad de solucionar problemas, capacidad innata de liderazgo, de enseñanza y también de aprendizaje continuo, práctica en trabajo de equipo con metodología SCRUM y certificación IBM en método Agile, manejo de bases de datos y análisis de datos. Soy de pensamiento científico, y bueno en matemáticas, tengo excelente comunicación y manejo de proyectos, tanto en forma individual como en equipo.
+ Tengo muchos estudios y práctica en especial en los últimos años, sobre las nuevas tecnologías que están ahora en vanguardia y son las más elegidas, certificación de Guayerd e IBM en Fundamentos de Data Analytic. Actualmente estoy estudiando para conseguir la certificación de AWS y para mejorar mi nivel de inglés.
+
 
 Mis motivaciones:
 
